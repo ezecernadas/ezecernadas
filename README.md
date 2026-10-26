@@ -13,7 +13,6 @@ I build integrations and automations for business operations: self-hosted infras
 | Project | What it is | Stack |
 |---|---|---|
 | [steamshare](https://github.com/ezecernadas/steamshare) | Share one NTFS Steam library between Windows and Linux on a dual-boot PC | Python |
-| [BoilR (fork)](https://github.com/ezecernadas/BoilR) | Added automatic background sync to a tool that imports non-Steam games into Steam | Rust |
 | [COALA](https://github.com/Joaquin-dv/Tesis_COALA) | Collaborative open-notes platform with AI-assisted pre-moderation; in production with real users (team of 4) | PHP · MySQL · MVC |
 
 ### Stack
@@ -31,6 +30,6 @@ Construyo integraciones y automatizaciones para la operación de negocio: infrae
 
 - Administro Chatwoot, n8n y Evolution API self-hosted en GCP, integrados con el ERP Finnegans, el CRM y la API de WhatsApp Business.
 - Desarrollé un bot multimodal (texto, audio e imagen) con n8n y OpenAI que contribuyó a reducir ~49% el tiempo de primera respuesta.
-- Proyectos destacados: **steamshare** (biblioteca de Steam compartida en dual boot), **BoilR** (sincronización automática) y **COALA** (plataforma colaborativa de apuntes, en producción).
+- Proyectos destacados: **steamshare** (biblioteca de Steam compartida en dual boot) y **COALA** (plataforma colaborativa de apuntes, en producción).
 
 </details>
