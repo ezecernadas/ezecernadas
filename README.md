@@ -1,48 +1,36 @@
-<h2 align="left">Hola 👋! Mi nombre es Ezequiel y soy un Programador de Argentina 🇦🇷</h2>
+# Ezequiel Cernadas
 
-###
+**Systems Analyst** at [Saborigal](https://saborigal.com) · Systems student at UNGS · Buenos Aires, Argentina 🇦🇷
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezecernadas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezecernadas&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I build integrations and automations for business operations: self-hosted infrastructure, messaging bots, ERP/CRM connectors, and the tools that tie them together.
 
-###
+### Currently
+- Running self-hosted Chatwoot, n8n and Evolution API on GCP, integrated with the Finnegans ERP, our CRM and the WhatsApp Business API
+- Built a multimodal (text/audio/image) customer bot with n8n + OpenAI that contributed to a ~49% drop in first-response time
+- Studying for a B.Sc. in Information Systems at UNGS
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+### Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [steamshare](https://github.com/ezecernadas/steamshare) | Share one NTFS Steam library between Windows and Linux on a dual-boot PC | Python |
+| [BoilR (fork)](https://github.com/ezecernadas/BoilR) | Added automatic background sync to a tool that imports non-Steam games into Steam | Rust |
+| [COALA](https://github.com/Joaquin-dv/Tesis_COALA) | Collaborative open-notes platform with AI-assisted pre-moderation; in production with real users (team of 4) | PHP · MySQL · MVC |
 
-###
+### Stack
+`TypeScript` `Python` `PHP` `Kotlin` `Rust` `SQL` · `n8n` `Docker` `GCP` `Linux` · `Godot`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+### Contact
+[LinkedIn](https://www.linkedin.com/in/ezequiel-cernadas/) · [Portfolio](https://ezecernadas.github.io) · [Email](mailto:ezecernadas@gmail.com)
 
-###
+<details>
+<summary>🇪🇸 Español</summary>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Analista de Sistemas** en Saborigal y estudiante de la Licenciatura en Sistemas en la UNGS.
 
-###
+Construyo integraciones y automatizaciones para la operación de negocio: infraestructura self-hosted, bots de mensajería, conectores con ERP/CRM y las herramientas que los unen.
 
-<br clear="both">
+- Administro Chatwoot, n8n y Evolution API self-hosted en GCP, integrados con el ERP Finnegans, el CRM y la API de WhatsApp Business.
+- Desarrollé un bot multimodal (texto, audio e imagen) con n8n y OpenAI que contribuyó a reducir ~49% el tiempo de primera respuesta.
+- Proyectos destacados: **steamshare** (biblioteca de Steam compartida en dual boot), **BoilR** (sincronización automática) y **COALA** (plataforma colaborativa de apuntes, en producción).
 
-<img src="https://raw.githubusercontent.com/ezecernadas/ezecernadas/output/snake.svg" alt="Snake animation" />
-
-###
+</details>
