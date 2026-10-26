@@ -17,7 +17,7 @@ I build integrations and automations for business operations: self-hosted infras
 | [COALA](https://github.com/Joaquin-dv/Tesis_COALA) | Collaborative open-notes platform with AI-assisted pre-moderation; in production with real users (team of 4) | PHP · MySQL · MVC |
 
 ### Stack
-`TypeScript` `Python` `PHP` `Kotlin` `Rust` `SQL` · `n8n` `Docker` `GCP` `Linux` · `Godot`
+`TypeScript` `Python` `PHP` `SQL` · `n8n` `Docker` `GCP` `Linux` · `Godot`
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/ezequiel-cernadas/) · [Portfolio](https://ezecernadas.github.io) · [Email](mailto:ezecernadas@gmail.com)
